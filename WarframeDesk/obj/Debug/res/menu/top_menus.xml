@@ -1,0 +1,1 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"><item android:id="@+id/menu_alert" android:title="Alertas" /><item android:id="@+id/menu_invade" android:title="Invasiones" /><item android:id="@+id/menu_outbreak" android:title="Brotes" /></menu>
